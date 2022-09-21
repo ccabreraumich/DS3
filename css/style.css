@@ -71,5 +71,7 @@ body{
   figure {
     padding-top: 10px;
     padding-left: 10px;
+    display: inline-block;
+    border: 5px solid;
   }
 
